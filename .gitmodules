@@ -1,0 +1,6 @@
+[submodule "vigenere_cipher"]
+	path = vigenere_cipher
+	url = ./vigenere_cipher/
+[submodule "scytale_cipher"]
+	path = scytale_cipher
+	url = ./scytale_cipher/
