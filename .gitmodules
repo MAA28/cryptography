@@ -4,3 +4,6 @@
 [submodule "scytale_cipher"]
 	path = scytale_cipher
 	url = ./scytale_cipher/
+[submodule "caesor_cipher"]
+	path = caesor_cipher
+	url = ./caesor_cipher/
