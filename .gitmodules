@@ -1,9 +1,9 @@
 [submodule "vigenere_cipher"]
 	path = vigenere_cipher
-	url = ./vigenere_cipher/
+	url = https://github.com/MAA28/vigenere_cipher/
 [submodule "scytale_cipher"]
 	path = scytale_cipher
-	url = ./scytale_cipher/
+	url = https://github.com/MAA28/scytale_cipher/
 [submodule "caesor_cipher"]
 	path = caesor_cipher
 	url = https://github.com/MAA28/caesor_cipher/
