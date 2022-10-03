@@ -6,4 +6,4 @@
 	url = ./scytale_cipher/
 [submodule "caesor_cipher"]
 	path = caesor_cipher
-	url = ./caesor_cipher/
+	url = https://github.com/MAA28/caesor_cipher/
