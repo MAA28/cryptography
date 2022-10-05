@@ -2,8 +2,8 @@
 A collection of cryptographic algorithms in rust
 
 ## Ciphers
-|Name|Encoder|Decoder|Cracker|
-|-|-|-|-|
-|Ceasor|✔|✔|✔|
-|Vigenere|✔|✔|❌|
-|Scytale|❌|❌|❌|
+|Name|Encoder|Decoder|Cracker|Tests|
+|-|-|-|-|-|
+|Ceasor|✔|✔|✔|✔|
+|Vigenere|✔|✔|❌|❌|
+|Scytale|❌|❌|❌|❌|
