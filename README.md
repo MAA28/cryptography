@@ -5,5 +5,5 @@ A collection of cryptographic algorithms in rust
 |Name|Encoder|Decoder|Cracker|Tests|
 |-|-|-|-|-|
 |Ceasor|✔|✔|✔|✔|
-|Vigenere|✔|✔|❌|❌|
+|Vigenere|✔|✔|❌|✔|
 |Scytale|❌|❌|❌|❌|
